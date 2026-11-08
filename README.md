@@ -1,2 +1,2 @@
 # dor-tumarkin.github.io
-Hebrew Typing Game
+[Hebrew Typing Game](/ab.html)
